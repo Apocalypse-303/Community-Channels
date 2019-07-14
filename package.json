@@ -1,0 +1,20 @@
+{
+  "name": "community-channels-master",
+  "version": "1.0.0",
+  "description": "a discord bot for the community to make there own channels",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apocalypse-303/Community-Channels.git"
+  },
+  "author": "PlexiDevs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apocalypse-303/Community-Channels/issues"
+  },
+  "homepage": "https://github.com/Apocalypse-303/Community-Channels#readme"
+}
